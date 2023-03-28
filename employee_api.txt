@@ -1,0 +1,19 @@
+In this exercise, I will create a simple Python script to implement a RESTful API using Flask. This exercise will give exposure to backend web development using Python, which is a valuable skill in the job market, particularly for web developers and full-stack developers.
+
+First, need to install the necessary library using pip:
+
+pip install Flask
+ 
+
+
+
+
+Run the script to start the Flask development server.
+
+This exercise introduces to the following concepts:
+
+Creating a RESTful API using Flask
+Handling HTTP methods (GET, POST, PUT, DELETE)
+Working with JSON data
+Implementing CRUD (Create, Read, Update, Delete) operations
+These skills are essential for web developers and full-stack developers, as they allow you to create, maintain, and interact with backend services that manage data and business logic for web applications.
